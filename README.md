@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi There 👋
 
-<!--
+
 **knagware9/knagware9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter @knagware, Linkedin: Kamlesh.nagware
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
